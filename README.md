@@ -1,3 +1,5 @@
+This repository moved to [zeromq/contiki-zmtp](https://github.com/zeromq/contiki-zmtp).
+
 ZMTP for Contiki OS
 ===================
 
